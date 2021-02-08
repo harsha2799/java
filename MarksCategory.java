@@ -22,7 +22,7 @@ System.out.println("Distinction");
 else if(per>=60)
 System.out.println("First Class");
 
-if(per>=50)
+else if(per>=50)
 System.out.println("Second class");
 
 else
